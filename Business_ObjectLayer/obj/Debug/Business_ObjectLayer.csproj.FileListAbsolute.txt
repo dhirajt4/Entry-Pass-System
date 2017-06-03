@@ -1,0 +1,14 @@
+C:\Users\fck\Desktop\EntryPass\Business_ObjectLayer\bin\Debug\Business_ObjectLayer.dll
+C:\Users\fck\Desktop\EntryPass\Business_ObjectLayer\bin\Debug\Business_ObjectLayer.pdb
+C:\Users\fck\Desktop\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.dll
+C:\Users\fck\Desktop\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.pdb
+D:\project\EntryPass\Business_ObjectLayer\bin\Debug\Business_ObjectLayer.dll
+D:\project\EntryPass\Business_ObjectLayer\bin\Debug\Business_ObjectLayer.pdb
+D:\project\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.dll
+D:\project\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.pdb
+D:\project\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.csprojResolveAssemblyReference.cache
+E:\ELTE\MSc 4th Semester\Software Technology\EntryPass\Business_ObjectLayer\bin\Debug\Business_ObjectLayer.dll
+E:\ELTE\MSc 4th Semester\Software Technology\EntryPass\Business_ObjectLayer\bin\Debug\Business_ObjectLayer.pdb
+E:\ELTE\MSc 4th Semester\Software Technology\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.dll
+E:\ELTE\MSc 4th Semester\Software Technology\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.pdb
+E:\ELTE\MSc 4th Semester\Software Technology\EntryPass\Business_ObjectLayer\obj\Debug\Business_ObjectLayer.csprojResolveAssemblyReference.cache

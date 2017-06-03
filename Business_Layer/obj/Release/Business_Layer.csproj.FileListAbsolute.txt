@@ -1,0 +1,9 @@
+D:\project\EntryPass\Business_Layer\bin\Release\Business_Layer.dll
+D:\project\EntryPass\Business_Layer\bin\Release\Business_Layer.pdb
+D:\project\EntryPass\Business_Layer\bin\Release\Business_DataLayer.dll
+D:\project\EntryPass\Business_Layer\bin\Release\Business_ObjectLayer.dll
+D:\project\EntryPass\Business_Layer\bin\Release\Business_DataLayer.pdb
+D:\project\EntryPass\Business_Layer\bin\Release\Business_ObjectLayer.pdb
+D:\project\EntryPass\Business_Layer\obj\Release\Business_Layer.csprojResolveAssemblyReference.cache
+D:\project\EntryPass\Business_Layer\obj\Release\Business_Layer.dll
+D:\project\EntryPass\Business_Layer\obj\Release\Business_Layer.pdb

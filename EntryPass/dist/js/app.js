@@ -4,11 +4,7 @@
  * should be included in all pages. It controls some layout
  * options and implements exclusive AdminLTE plugins.
  *
- * @Author  Almsaeed Studio
- * @Support <http://www.almsaeedstudio.com>
- * @Email   <support@almsaeedstudio.com>
- * @version 2.1.2
- * @license MIT <http://opensource.org/licenses/MIT>
+ * 
  */
 
 'use strict';

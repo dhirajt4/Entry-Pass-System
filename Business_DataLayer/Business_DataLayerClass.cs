@@ -11,7 +11,7 @@ namespace Business_DataLayer
     public class Business_DataLayerClass
     {
 
-        SqlConnection con = new SqlConnection(@"Data Source=;Initial Catalog=entrypass;Integrated Security=True;Connect Timeout=15; ");
+        SqlConnection con = new SqlConnection(@"");
        
 
         public int Set_Permission(Business_ObjectLayerClass obj)
